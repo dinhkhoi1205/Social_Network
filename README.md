@@ -1,8 +1,6 @@
-Dưới đây là phiên bản được viết lại và trình bày chuyên nghiệp hơn của README.md, dành cho một dự án mạng xã hội được phát triển với Spring Boot và ReactJS. Bạn có thể thay đổi phần nào nếu cần tùy chỉnh thêm (logo, link GitHub, hình ảnh, v.v.):
+
 
 ---
-
-````markdown
 <a id="readme-top"></a>
 
 # 🌐 Social Media Web Application
@@ -58,7 +56,6 @@ This social media platform enables users to create accounts, manage their profil
 - 👤 Profile management (edit profile, upload avatar)
 - 📝 Post creation and feed display
 - ❤️ Like and 💬 comment on posts
-- 🧑‍🤝‍🧑 Follow/unfollow other users
 - 🔍 Search for users or posts
 - 📦 API error handling and validation
 
@@ -120,10 +117,9 @@ npm start
 1. **Visit the login or register page**
 2. **Create a new account and log in**
 3. **Explore the feed**
-4. **Follow users and interact with their posts**
+4. **Interact with their posts**
 5. **Create your own content and manage your profile**
 
-You can host it locally or deploy on platforms like Vercel (frontend) and Render/Heroku (backend).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,17 +128,9 @@ You can host it locally or deploy on platforms like Vercel (frontend) and Render
 ## 📬 Contact
 
 * 📧 Email: [dinhkhoi2021@gmail.com](mailto:dinhkhoi2021@gmail.com)
-* 💼 LinkedIn: *<your LinkedIn if available>*
-* 🔗 Project Link: *<GitHub main repo link here>*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ```
-
----
-
-Nếu bạn muốn, mình có thể:
-
-* Gắn ảnh minh họa vào từng phần (nếu bạn cung cấp ảnh hoặc link).
 * Tách phần "API Documentation" nếu bạn đã có Postman Collection.
 * Gợi ý cách deploy full-stack app miễn phí (Render, Railway, Vercel, Netlify).
 
