@@ -131,7 +131,4 @@ npm start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ```
-* Tách phần "API Documentation" nếu bạn đã có Postman Collection.
-* Gợi ý cách deploy full-stack app miễn phí (Render, Railway, Vercel, Netlify).
 
-Bạn có muốn mình chuyển phần này thành file `README.md` để tải về không?
