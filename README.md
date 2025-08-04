@@ -89,7 +89,7 @@ cd SocialSpringBackEnd
 ./mvnw spring-boot:run
 ````
 
-📁 GitHub Repository: *<add your backend GitHub repo link here>*
+📁 GitHub Repository: (https://github.com/dinhkhoi1205/Social_Network/tree/main/SocialSpringBackEnd)
 
 ---
 
@@ -106,7 +106,7 @@ npm install
 npm start
 ```
 
-📁 GitHub Repository: *<add your frontend GitHub repo link here>*
+📁 GitHub Repository: (https://github.com/dinhkhoi1205/Social_Network/tree/main/socialweb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
